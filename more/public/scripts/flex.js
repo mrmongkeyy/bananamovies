@@ -46,7 +46,11 @@ document.body.onload = function(){
 								<span>Web ini dijual. Web ini, semua akan menjadi milik anda!<br>
 									Web sudah playable, memiliki banyak kontent. Kontent bisa<br> ditambah. Baik secara manual, ataupun otomasi, saya akan<br> melakukannya.</span>
 							</div>
-							<div>
+							<div
+							style="
+								margin-top:10px;
+							"
+							>
 								<span>
 									Terimakasih, tertanda Gema.
 								</span>
